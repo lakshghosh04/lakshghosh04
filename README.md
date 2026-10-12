@@ -1,4 +1,4 @@
-```html
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=260&section=header&text=Laksh%20Ghosh&fontSize=68&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Business%20%C3%97%20Data%20%C3%97%20Technology&descSize=22&descAlignY=58" alt="Laksh Ghosh | Business × Data × Technology" width="100%" />
