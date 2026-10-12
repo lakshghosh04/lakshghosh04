@@ -1,5 +1,3 @@
-[lakshghosh04_README.md](https://github.com/user-attachments/files/33353953/lakshghosh04_README.md)
-<div align="center">
 
 # LAKSH GHOSH
 ### BUSINESS × DATA × TECHNOLOGY
