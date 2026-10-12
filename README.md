@@ -1,102 +1,98 @@
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,55:0E7490,100:6366F1&height=240&section=header&text=Laksh%20Ghosh&fontSize=64&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Business%20%C3%97%20Data%20%C3%97%20Technology&descSize=22&descAlignY=58&descColor=E0F2FE" alt="Laksh Ghosh | Business × Data × Technology" width="100%" />
-
-<a href="https://github.com/lakshghosh04">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=1300&color=22D3EE&center=true&vCenter=true&width=720&height=44&lines=Turning+business+questions+into+decisions;Dashboards+people+actually+use;Practical+AI+with+a+clear+purpose" alt="Turning business questions into decisions" />
-</a>
-
-<br/><br/>
-
-<i>A dashboard is only useful if someone changes what they do because of it.</i>
-
-<br/><br/>
-
-I'm an MSc graduate in <b>Data Science, AI & Digital Business</b>, based in Berlin.<br/>
-I work best in the gap between the people who ask the questions and the people who handle the data, translating in both directions.<br/>
-I'm looking for my first role in <b>business analytics, BI, data analytics or technology consulting</b>.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:164E63,100:4338CA&height=200&section=header&text=Laksh%20Ghosh&fontSize=58&fontColor=F8FAFC&fontAlignY=36&animation=fadeIn&desc=BUSINESS%20%C3%97%20DATA%20%C3%97%20TECHNOLOGY&descSize=17&descAlignY=59" width="100%" alt="Laksh Ghosh | Business × Data × Technology" />
 
 <br/>
 
-<a href="https://www.linkedin.com/in/lakshghosh/"><img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3500&pause=1200&color=22D3EE&center=true&vCenter=true&width=650&height=36&lines=Good+questions.+Clearer+decisions.;From+business+questions+to+data+insights.;Practical+analytics%2C+with+purpose." alt="Good questions. Clearer decisions." />
+
+**Turning business questions into insights people can act on.**
+
+MSc in Data Science, AI & Digital Business · Berlin, Germany
+
+Interested in Business Analytics, Business Intelligence and Technology Consulting.
+
+<br/>
+
+<a href="https://www.linkedin.com/in/lakshghosh/"><img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
 &nbsp;
-<a href="mailto:lakshghosh04@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-0E7490?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="mailto:lakshghosh04@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Say%20hello-334155?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email" /></a>
 
 </div>
 
-<br/>
+---
 
-<h3 align="center">Toolkit</h3>
+<h3 align="center">01 / THE TOOLKIT</h3>
 
 <div align="center">
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-<img src="https://img.shields.io/badge/SQL%20(basics)-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL (basics)" />
+<img src="https://img.shields.io/badge/SQL-Basics-64748B?style=flat-square&logo=postgresql&logoColor=white" alt="SQL basics" />
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
 <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
 
 </div>
 
-<br/>
-
-<h3 align="center">What I Like Building</h3>
+<h3 align="center">02 / WHAT I LIKE BUILDING</h3>
 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <b>01 · FIND THE SIGNAL</b><br/><br/>
-      Dashboards that surface the one pattern worth acting on, instead of forty charts that say the same thing.<br/><br/>
-      <sub><b>For:</b> teams buried in reports</sub>
+      <p><strong>01 &nbsp; FIND THE SIGNAL</strong></p>
+      Dashboards that reveal meaningful patterns and turn complex data into clear takeaways.
     </td>
     <td width="33%" valign="top">
-      <b>02 · READ PERFORMANCE</b><br/><br/>
-      KPI and campaign views that answer three things: what is working, what changed, and where to look next.<br/><br/>
-      <sub><b>For:</b> teams deciding where to put effort</sub>
+      <p><strong>02 &nbsp; READ PERFORMANCE</strong></p>
+      KPI and campaign analysis that explains what is working, what changed, and where to look next.
     </td>
     <td width="33%" valign="top">
-      <b>03 · PUT AI TO WORK</b><br/><br/>
-      Small experiments that test whether AI solves a real problem before anyone builds around it.<br/><br/>
-      <sub><b>For:</b> teams unsure where AI fits</sub>
+      <p><strong>03 &nbsp; APPLY AI</strong></p>
+      Small, focused experiments that test whether AI can solve a real problem.
     </td>
   </tr>
 </table>
 
-<br/>
-
-<h3 align="center">How I Approach a Problem</h3>
-
-<div align="center">
+<h3 align="center">03 / HOW I APPROACH A PROBLEM</h3>
 
 <table>
   <tr>
-    <td align="center" valign="top" width="25%"><b>QUESTION →</b><br/><sub>Define the decision before touching the data</sub></td>
-    <td align="center" valign="top" width="25%"><b>DATA →</b><br/><sub>Check quality and context before trusting it</sub></td>
-    <td align="center" valign="top" width="25%"><b>INSIGHT →</b><br/><sub>Say what it means, not just what it shows</sub></td>
-    <td align="center" valign="top" width="25%"><b>ACTION</b><br/><sub>End with a next step someone can take</sub></td>
+    <td align="center" width="25%">
+      <strong>QUESTION</strong><br/>
+      <sub>Define the decision</sub>
+    </td>
+    <td align="center" width="25%">
+      <strong>DATA</strong><br/>
+      <sub>Check the evidence</sub>
+    </td>
+    <td align="center" width="25%">
+      <strong>INSIGHT</strong><br/>
+      <sub>Explain what matters</sub>
+    </td>
+    <td align="center" width="25%">
+      <strong>ACTION</strong><br/>
+      <sub>Identify the next step</sub>
+    </td>
   </tr>
 </table>
 
-</div>
-
-<br/>
-
-<h3 align="center">Current Focus</h3>
+<h3 align="center">04 / CURRENT FOCUS</h3>
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <b>Developing</b><br/><br/>
+      <strong>DEVELOPING</strong><br/><br/>
       SQL for analytical work<br/>
-      Dashboard design in Power BI and Streamlit<br/>
-      Practical AI through small, focused projects
+      Dashboard design with Power BI and Streamlit<br/>
+      Practical AI through focused projects
     </td>
     <td width="50%" valign="top">
-      <b>Planned projects</b><br/><br/>
-      A campaign performance dashboard<br/>
-      A Streamlit app exploring a practical AI use case<br/>
-      <sub>Not published yet. Repositories will be linked here.</sub>
+      <strong>PROJECT ROADMAP</strong><br/><br/>
+      Campaign performance dashboard<br/>
+      Streamlit app exploring a practical AI use case<br/><br/>
+      <sub>Planned projects, not yet published.</sub>
     </td>
   </tr>
 </table>
@@ -105,8 +101,8 @@ I'm looking for my first role in <b>business analytics, BI, data analytics or te
 
 <div align="center">
 
-<i>The best analysis ends with someone knowing what to do next.</i>
+*The best analysis ends with someone knowing what to do next.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,55:0E7490,100:0B1020&height=120&section=footer" alt="" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4338CA,50:164E63,100:0B1220&height=85&section=footer" width="100%" alt="" />
 
 </div>
