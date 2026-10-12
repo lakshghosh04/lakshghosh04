@@ -1,59 +1,63 @@
-[lakshghosh04_README.md](https://github.com/user-attachments/files/33353498/lakshghosh04_README.md)
+```html
 <div align="center">
 
 # LAKSH GHOSH
-### `BUSINESS × DATA × TECHNOLOGY`
 
-**I turn “what’s happening?” into “what should we do next?”**
+### BUSINESS × DATA × TECHNOLOGY
 
-*Analytics-minded. Business-curious. Building useful things with data.*
+**From raw data to real decisions.**
 
-[LinkedIn](https://www.linkedin.com/in/lakshghosh/) · [Email](mailto:lakshghosh04@gmail.com)
+Turning business questions into insights, dashboards, and practical solutions.
+
+<a href="https://www.linkedin.com/in/lakshghosh/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+<a href="mailto:lakshghosh04@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 </div>
 
 ---
 
-## ◉ The intersection I work in
+## ◈ ABOUT ME
 
-```text
-BUSINESS QUESTION  →  DATA EXPLORATION  →  CLEAR VISUALS  →  BETTER DECISIONS
-```
+I'm an MSc graduate in **Data Science, AI & Digital Business**, interested in the space where business problems meet data and technology.
 
-I’m an MSc graduate in **Data Science, AI & Digital Business**. I enjoy the space between technical analysis and real-world impact: understanding a problem, finding the signal in the data, and communicating the result so people can act on it.
+I enjoy finding patterns, making information easier to understand, and building tools that help people make better decisions.
 
-I’m especially interested in **Business Analytics, BI, digital performance, and practical AI**.
+- Exploring **Business Intelligence & Analytics**
+- Building interactive dashboards with **Power BI and Streamlit**
+- Learning through practical **Python, SQL and AI projects**
+- Interested in the business impact behind the technology
 
-## ⌁ My toolkit
-
-| ANALYSE | VISUALISE | BUILD |
-|:--|:--|:--|
-| SQL · Excel · Pandas | Power BI · Data storytelling | Python · Streamlit |
-| KPI tracking · EDA | Dashboards · Reporting | Small AI/ML experiments |
-
-## ✳ Things I want to build here
-
-> **Less “look what I coded.” More “look what this helps us understand.”**
-
-- **Signal Finder** — dashboards that make trends, outliers and KPIs easier to spot.
-- **Business in a Dashboard** — interactive explorations of sales, customer and campaign performance.
-- **AI, Made Useful** — small experiments that turn AI concepts into practical tools.
-
-*This is my project direction, not a claim that every item is already published. I’m building, learning, and improving in public.*
-
-## ⤴ How I think
-
-- Start with the question, not the tool.
-- Make the insight understandable to non-technical people.
-- Prefer useful and clear over complicated for the sake of it.
-- Keep learning by shipping small projects.
-
----
+## ◈ TOOLKIT
 
 <div align="center">
 
-### CURIOUS BY DEFAULT · ANALYTICAL BY HABIT · PRACTICAL BY DESIGN
-
-*Open to opportunities where business problems, data, and technology meet.*
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
 
 </div>
+
+## ◈ WHAT I'M BUILDING
+
+| PROJECT DIRECTION | THE GOAL |
+| :--- | :--- |
+| **Interactive Analytics** | Turn raw datasets into clear, useful dashboards. |
+| **Business Performance** | Explore KPIs, sales trends and campaign results. |
+| **Practical AI** | Experiment with AI tools that solve real problems. |
+
+*Currently building my portfolio one practical project at a time.*
+
+## ◈ MY APPROACH
+
+> Less "look what I coded."
+> More "look what this helps us understand."
+
+**Curious by default. Analytical by habit. Practical by design.**
+
