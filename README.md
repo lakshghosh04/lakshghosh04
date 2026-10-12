@@ -1,120 +1,73 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:1D1D1F,100:0D1117&height=250&section=header&text=Laksh%20Ghosh&fontSize=62&fontColor=F5F5F7&fontAlignY=42&desc=Business%20%C3%97%20Data%20%C3%97%20Technology&descSize=20&descAlignY=64&descColor=86868B" alt="Laksh Ghosh | Business × Data × Technology" width="100%" />
-
-<br/>
+<img src="assets/header.svg" alt="Laksh Ghosh | Business × Data × Technology" width="100%" />
 
 <a href="https://github.com/lakshghosh04">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=2600&pause=100000&repeat=false&color=F5F5F7&center=true&vCenter=true&width=760&height=50&lines=Understand+the+problem+before+choosing+the+tool." alt="Understand the problem before choosing the tool." />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1400&color=F5F5F7&center=true&vCenter=true&width=820&height=50&lines=Understand+the+problem+before+choosing+the+tool.;I+like+turning+vague+problems+into+clear+next+steps.;Practical+AI%2C+minus+the+hype.;Business+first.+Technology+second." alt="Understand the problem before choosing the tool." />
 </a>
 
-<br/>
-
 <p>
-MSc graduate in <b>Data Science, AI & Digital Business</b>, based in Berlin.<br/>
-I enjoy working out what a business needs before deciding how to build it.<br/>
-Looking for my first role in <b>technology consulting, business analytics or BI</b>.
+MSc in <b>Data Science, AI & Digital Business</b>. Berlin.<br/>
+I like working out what a business actually needs before anyone opens a tool.<br/>
+Now looking for my first role in <b>technology consulting, business analytics or BI</b>.
 </p>
 
 <p>
-<a href="https://www.linkedin.com/in/lakshghosh/">LinkedIn&nbsp;›</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:lakshghosh04@gmail.com">Email&nbsp;›</a>
+<a href="https://www.linkedin.com/in/lakshghosh/"><img src="assets/btn-linkedin.svg" height="46" alt="LinkedIn" /></a>
+&nbsp;&nbsp;
+<a href="mailto:lakshghosh04@gmail.com"><img src="assets/btn-email.svg" height="46" alt="Email" /></a>
 </p>
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:3A3A3C,100:0D1117&height=1" alt="" width="100%" />
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=13&duration=1&pause=100000&repeat=false&color=86868B&center=true&vCenter=true&width=300&height=26&lines=WHAT+I+DO" alt="What I do" />
-
-<br/>
-
-<table width="100%">
-  <tr>
-    <td width="33%" valign="top" align="center">
-      <br/>
-      <img src="https://api.iconify.design/lucide:briefcase.svg?color=%23f5f5f7" width="30" alt="" /><br/><br/>
-      <b>Business</b><br/>
-      Start with the problem. Who is affected, what better looks like, and where a process could run more smoothly.
-      <br/><br/>
-    </td>
-    <td width="33%" valign="top" align="center">
-      <br/>
-      <img src="https://api.iconify.design/lucide:layers.svg?color=%23f5f5f7" width="30" alt="" /><br/><br/>
-      <b>Data</b><br/>
-      Let evidence support the decision. I work with Python, Pandas and Power BI, and I am building my SQL.
-      <br/><br/>
-    </td>
-    <td width="33%" valign="top" align="center">
-      <br/>
-      <img src="https://api.iconify.design/lucide:cpu.svg?color=%23f5f5f7" width="30" alt="" /><br/><br/>
-      <b>Technology</b><br/>
-      Use practical AI and software where they help, and leave them out where they do not.
-      <br/><br/>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:3A3A3C,100:0D1117&height=1" alt="" width="100%" />
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=13&duration=1&pause=100000&repeat=false&color=86868B&center=true&vCenter=true&width=300&height=26&lines=HOW+I+WORK" alt="How I work" />
-
-<br/>
+<img src="assets/divider.svg" alt="" width="100%" />
 
 <p>
-<b>Question</b>&nbsp;&nbsp;›&nbsp;&nbsp;<b>Evidence</b>&nbsp;&nbsp;›&nbsp;&nbsp;<b>Insight</b>&nbsp;&nbsp;›&nbsp;&nbsp;<b>Action</b>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=15&duration=1&pause=100000&repeat=false&color=86868B&center=true&vCenter=true&width=300&height=26&lines=What+I'm+about" alt="What I'm about" />
 </p>
 
 <p>
-Understand the problem, check the evidence,<br/>
-explain what it means, agree the next step.
+<img src="assets/card-business.svg" width="32%" alt="Business. Start with the problem. Who it affects, what better looks like." />
+<img src="assets/card-data.svg" width="32%" alt="Data. Let the evidence talk. Python, Pandas, Power BI, SQL on the way." />
+<img src="assets/card-technology.svg" width="32%" alt="Technology. Use it where it fits. Practical AI, where it earns its place." />
 </p>
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:3A3A3C,100:0D1117&height=1" alt="" width="100%" />
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=13&duration=1&pause=100000&repeat=false&color=86868B&center=true&vCenter=true&width=300&height=26&lines=CURRENTLY" alt="Currently" />
-
-<br/>
+<img src="assets/divider.svg" alt="" width="100%" />
 
 <p>
-<b>In progress</b><br/>
-Strengthening SQL, building in Power BI and Streamlit, and trying small practical AI projects.
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=15&duration=1&pause=100000&repeat=false&color=86868B&center=true&vCenter=true&width=300&height=26&lines=How+I+think" alt="How I think" />
+</p>
+
+<img src="assets/flow.svg" width="82%" alt="Question, Evidence, Insight, Action" />
+
+<p>Ask first. Check the evidence. Say what it means. Pick the next move.</p>
+
+<img src="assets/divider.svg" alt="" width="100%" />
+
+<p>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=15&duration=1&pause=100000&repeat=false&color=86868B&center=true&vCenter=true&width=300&height=26&lines=Right+now" alt="Right now" />
 </p>
 
 <p>
-<b>Planned, not published yet</b><br/>
-A campaign performance dashboard and a Streamlit app exploring a practical AI use case.
+Sharpening SQL, building in Power BI and Streamlit,<br/>
+and testing small, practical AI ideas.
 </p>
 
+<details>
+<summary><b>Planned, not published yet</b></summary>
+<br/>
+A campaign performance dashboard and a Streamlit app exploring a practical AI use case.<br/>
+Repositories will be linked here once they exist.
+</details>
+
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:3A3A3C,100:0D1117&height=1" alt="" width="100%" />
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=13&duration=1&pause=100000&repeat=false&color=86868B&center=true&vCenter=true&width=300&height=26&lines=TOOLS" alt="Tools" />
-
-<br/>
+<img src="assets/divider.svg" alt="" width="100%" />
 
 <p>
-Python&nbsp;&nbsp;·&nbsp;&nbsp;Pandas&nbsp;&nbsp;·&nbsp;&nbsp;SQL (basics)&nbsp;&nbsp;·&nbsp;&nbsp;Power BI&nbsp;&nbsp;·&nbsp;&nbsp;Excel&nbsp;&nbsp;·&nbsp;&nbsp;Streamlit
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=15&duration=1&pause=100000&repeat=false&color=86868B&center=true&vCenter=true&width=300&height=26&lines=What+I+use" alt="What I use" />
 </p>
 
-<br/>
+<img src="assets/tools.svg" width="82%" alt="Python, Pandas, SQL (basics), Power BI, Excel, Streamlit" />
 
-<p><i>Business first. Technology second.</i></p>
+<br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:1D1D1F,100:0D1117&height=90&section=footer" alt="" width="100%" />
-
-</div>
+<img src="assets/footer.svg" alt="Business first. Technology second. No fuss." width="100%" />
