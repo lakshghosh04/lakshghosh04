@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img"><title>Laksh Ghosh | Business × Data × Technology</title><defs>
+<linearGradient id="fill" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff" stop-opacity="0.14"/><stop offset="1" stop-color="#fff" stop-opacity="0.03"/></linearGradient>
+<linearGradient id="edge" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fff" stop-opacity="0.6"/><stop offset="0.45" stop-color="#fff" stop-opacity="0.06"/><stop offset="1" stop-color="#fff" stop-opacity="0.3"/></linearGradient>
+<linearGradient id="sheen" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset="0.5" stop-color="#fff" stop-opacity="0.15"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<linearGradient id="metal" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#aab4c2"/></linearGradient>
+<radialGradient id="b1"><stop offset="0" stop-color="#5AA9FF" stop-opacity="0.5"/><stop offset="1" stop-color="#5AA9FF" stop-opacity="0"/></radialGradient>
+<radialGradient id="b2"><stop offset="0" stop-color="#9B8CFF" stop-opacity="0.45"/><stop offset="1" stop-color="#9B8CFF" stop-opacity="0"/></radialGradient>
+<clipPath id="clip"><rect width="1200" height="300" rx="44"/></clipPath>
+</defs><rect width="1200" height="300" rx="44" fill="#0E131B" fill-opacity="0.8"/>
+<g clip-path="url(#clip)">
+<circle r="540.0" fill="url(#b1)" cx="240.0" cy="90.0">
+<animate attributeName="cx" values="240.0;600.0;240.0" dur="14s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines=".45 0 .55 1;.45 0 .55 1"/>
+<animate attributeName="cy" values="90.0;225.0;90.0" dur="14s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines=".45 0 .55 1;.45 0 .55 1"/>
+</circle>
+<circle r="540.0" fill="url(#b2)" cx="1020.0" cy="225.0">
+<animate attributeName="cx" values="1020.0;660.0;1020.0" dur="18s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines=".45 0 .55 1;.45 0 .55 1"/>
+<animate attributeName="cy" values="225.0;90.0;225.0" dur="18s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines=".45 0 .55 1;.45 0 .55 1"/>
+</circle>
+</g>
+<rect width="1200" height="300" rx="44" fill="url(#fill)"/>
+<rect x="44" y="1.5" width="1112" height="1.5" fill="url(#sheen)" opacity="0.9"/>
+<g clip-path="url(#clip)">
+<rect x="-480.0" y="0" width="420.0" height="300" fill="url(#sheen)" transform="skewX(-20)">
+<animate attributeName="x" values="-480.0;1440.0;1440.0" keyTimes="0;0.4;1" keySplines=".4 0 .2 1;0 0 1 1" calcMode="spline" dur="9s" repeatCount="indefinite"/>
+</rect>
+</g>
+<rect x="0.75" y="0.75" width="1198.5" height="298.5" rx="43.25" fill="none" stroke="url(#edge)" stroke-width="1.5"/><g>
+<animate attributeName="opacity" from="0" to="1" dur="1.4s" begin="0.2s" fill="freeze"/>
+<animateTransform attributeName="transform" type="translate" from="0 16" to="0 0" dur="1.4s" begin="0.2s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines=".2 .7 .2 1"/>
+<text x="600" y="150" text-anchor="middle" font-family="Inter, -apple-system, 'SF Pro Display', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="88" font-weight="700" letter-spacing="-2" fill="url(#metal)">Laksh Ghosh</text>
+<text x="600" y="208" text-anchor="middle" font-family="Inter, -apple-system, 'SF Pro Display', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="27" font-weight="400" letter-spacing="1" fill="#A7B0BC">Business × Data × Technology</text></g></svg>
