@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 
 <img src="assets/header.svg" alt="Laksh Ghosh | Business × Data × Technology" width="92%" />
 
