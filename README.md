@@ -1,6 +1,6 @@
- <div align="center">
+<div align="center">
 
-<img src="assets/header.svg" alt="Laksh Ghosh | Business × Data × Technology" width="92%" />
+<img src="satin/header.svg" alt="Laksh Ghosh | Business × Data × Technology" width="88%" />
 
 <br/>
 
@@ -15,22 +15,22 @@ Currently seeking my first role in <b>technology consulting, business analytics 
 </p>
 
 <p>
-<a href="https://www.linkedin.com/in/lakshghosh/"><img src="assets/btn-linkedin.svg" height="46" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/lakshghosh/"><img src="satin/btn-linkedin.svg" height="40" alt="LinkedIn" /></a>
 &nbsp;
-<a href="mailto:lakshghosh04@gmail.com"><img src="assets/btn-email.svg" height="46" alt="Email" /></a>
+<a href="mailto:lakshghosh04@gmail.com"><img src="satin/btn-email.svg" height="40" alt="Email" /></a>
 </p>
 
 <br/>
 
 <p>
-<img src="assets/card-business.svg" width="30%" alt="Business. Start with the problem. Who it affects, what better looks like." />
-<img src="assets/card-data.svg" width="30%" alt="Data. Let evidence guide decisions. Python, Pandas, Power BI. SQL in progress." />
-<img src="assets/card-technology.svg" width="30%" alt="Technology. Apply it where it fits. Practical AI with a clear purpose." />
+<img src="satin/card-business.svg" width="31%" alt="Business. Start with the problem. Who it affects, what better looks like." />
+<img src="satin/card-data.svg" width="31%" alt="Data. Let evidence guide decisions. Python, Pandas, Power BI. SQL in progress." />
+<img src="satin/card-technology.svg" width="31%" alt="Technology. Apply it where it fits. Practical AI with a clear purpose." />
 </p>
 
 <br/>
 
-<img src="assets/flow.svg" width="62%" alt="Question, Evidence, Insight, Action" />
+<img src="satin/flow.svg" width="74%" alt="Question, Evidence, Insight, Action" />
 
 <p>Define the question. Examine the evidence. Explain what it means. Agree the next step.</p>
 
@@ -50,10 +50,6 @@ Repositories will be linked here once they exist.
 
 <br/>
 
-<img src="assets/tools.svg" width="58%" alt="Python, Pandas, SQL (basics), Power BI, Excel, Streamlit" />
-
-<br/><br/>
-
-<img src="assets/footer.svg" width="34%" alt="Business first. Technology second." />
+<img src="satin/tools.svg" width="66%" alt="Python, Pandas, SQL (basics), Power BI, Excel, Streamlit" />
 
 </div>
